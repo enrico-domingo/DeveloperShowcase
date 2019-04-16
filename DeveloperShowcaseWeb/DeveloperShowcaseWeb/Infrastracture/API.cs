@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace DeveloperShowcaseWeb.Infrastracture
 {
-    public class API
+    public static class API
     {
         public static class CardModule
         {
