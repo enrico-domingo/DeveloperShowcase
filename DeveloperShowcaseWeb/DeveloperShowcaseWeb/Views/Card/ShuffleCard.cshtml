@@ -1,0 +1,25 @@
+﻿@model List<CardModel>;
+@{
+    ViewData["Title"] = "ShuffleCard";
+}
+
+<h1>Card Deck</h1>
+
+<a class="text-center" asp-controller="Card" asp-action="ShuffleCard"> <span> Shuffle Card </span></a>
+
+<div class="row">
+        @foreach (var data in Model)
+        {
+            <div class="col-sm-3" style="margin-bottom: 20px">
+                <div class="card">
+                    <div class="card-header bg-primary text-center" >
+                        <b>@data.Value</b>
+                    </div>
+                    <div class="card-body text-center">
+                        @data.Type
+                    </div>
+
+                </div>
+            </div>
+        }
+</div>

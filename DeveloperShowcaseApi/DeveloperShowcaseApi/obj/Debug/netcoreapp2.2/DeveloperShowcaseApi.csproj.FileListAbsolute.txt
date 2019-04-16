@@ -1,0 +1,14 @@
+C:\Users\enrico.domingo\source\repos\DeveloperShowcaseApi\DeveloperShowcaseApi\obj\Debug\netcoreapp2.2\DeveloperShowcaseApi.csprojAssemblyReference.cache
+C:\Users\enrico.domingo\source\repos\DeveloperShowcaseApi\DeveloperShowcaseApi\obj\Debug\netcoreapp2.2\DeveloperShowcaseApi.csproj.CoreCompileInputs.cache
+C:\Users\enrico.domingo\source\repos\DeveloperShowcaseApi\DeveloperShowcaseApi\obj\Debug\netcoreapp2.2\DeveloperShowcaseApi.RazorAssemblyInfo.cache
+C:\Users\enrico.domingo\source\repos\DeveloperShowcaseApi\DeveloperShowcaseApi\obj\Debug\netcoreapp2.2\DeveloperShowcaseApi.RazorAssemblyInfo.cs
+C:\Users\enrico.domingo\source\repos\DeveloperShowcaseApi\DeveloperShowcaseApi\obj\Debug\netcoreapp2.2\DeveloperShowcaseApi.AssemblyInfoInputs.cache
+C:\Users\enrico.domingo\source\repos\DeveloperShowcaseApi\DeveloperShowcaseApi\obj\Debug\netcoreapp2.2\DeveloperShowcaseApi.AssemblyInfo.cs
+C:\Users\enrico.domingo\source\repos\DeveloperShowcaseApi\DeveloperShowcaseApi\bin\Debug\netcoreapp2.2\DeveloperShowcaseApi.deps.json
+C:\Users\enrico.domingo\source\repos\DeveloperShowcaseApi\DeveloperShowcaseApi\bin\Debug\netcoreapp2.2\DeveloperShowcaseApi.runtimeconfig.json
+C:\Users\enrico.domingo\source\repos\DeveloperShowcaseApi\DeveloperShowcaseApi\bin\Debug\netcoreapp2.2\DeveloperShowcaseApi.runtimeconfig.dev.json
+C:\Users\enrico.domingo\source\repos\DeveloperShowcaseApi\DeveloperShowcaseApi\bin\Debug\netcoreapp2.2\DeveloperShowcaseApi.dll
+C:\Users\enrico.domingo\source\repos\DeveloperShowcaseApi\DeveloperShowcaseApi\obj\Debug\netcoreapp2.2\DeveloperShowcaseApi.RazorTargetAssemblyInfo.cache
+C:\Users\enrico.domingo\source\repos\DeveloperShowcaseApi\DeveloperShowcaseApi\bin\Debug\netcoreapp2.2\DeveloperShowcaseApi.pdb
+C:\Users\enrico.domingo\source\repos\DeveloperShowcaseApi\DeveloperShowcaseApi\obj\Debug\netcoreapp2.2\DeveloperShowcaseApi.dll
+C:\Users\enrico.domingo\source\repos\DeveloperShowcaseApi\DeveloperShowcaseApi\obj\Debug\netcoreapp2.2\DeveloperShowcaseApi.pdb
